@@ -1,0 +1,21 @@
+.main-footer{
+    background-color:rgb(153, 126, 94);
+    position: fixed;
+    width: 100%;
+    height: 20%;
+    bottom: 0%;
+    display: flex;
+    flex-direction: column;
+    /* min-height: 20vh; */
+    mix-blend-mode: luminosity;
+
+}
+
+.container-1{
+    flex: 1vh;
+    
+}
+
+.col-sm{
+    align-content: center;
+}

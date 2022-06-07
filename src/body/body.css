@@ -1,0 +1,30 @@
+.container-b{
+    top: 15%;
+    background: linear-gradient(to bottom, hsl(33, 100%, 88%), hsl(0, 5%, 13%));
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+.main-row{
+    width: 100%;
+    height: fit-content;
+    position: absolute;
+    flex-direction: column;
+
+}
+.main-row1{
+    width: 100%;
+    height: fit-content;
+    position: absolute;
+    margin-top: 6%;
+    flex-direction: column;
+
+}
+.main-row2{
+    width: 100%;
+    height: fit-content;
+    position: absolute;
+    margin-top: 17%;
+    flex-direction: column;
+
+}

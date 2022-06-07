@@ -1,0 +1,24 @@
+
+.container__main_header{
+    width: 100%;
+    position:absolute;
+    justify-content:space-around;
+    z-index:auto;
+    position: fixed;
+}
+/* .main-cs{
+    width: 100%;
+} */
+/* .container__sub_headeer{
+    background-color: rgb(201, 160, 111);
+    width: 100%;
+    position:absolute;
+    justify-content:space-around;
+} */
+/* .header__container{
+    cursor: pointer;
+} */
+/* .Icon{
+    width: 60px;
+    height: 60px;
+} */
